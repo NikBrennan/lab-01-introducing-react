@@ -1,8 +1,8 @@
-import React, {useState} from 'react'
+import React from 'react'
 
 const Greetings = props => {
 
-    const {name, setName} = props;
+    const {name} = props;
 
     return (
         <>
