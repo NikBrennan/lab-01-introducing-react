@@ -1,0 +1,20 @@
+body {
+    background-color: #1d3557;
+}
+
+.light-navy {
+    background-color: #a8dadc;
+}
+
+.med-navy {
+    background-color: #457b9d;
+}
+
+.yellow-eggshell {
+    background-color: #f1faee;
+    border-width: 2px;
+}
+
+.name {
+    color: #e63946;
+}
